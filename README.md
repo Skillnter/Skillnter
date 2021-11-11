@@ -1,4 +1,4 @@
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5736950?color=F27F33&style=plastic)](https://stackoverflow.com/users/5736950/himanshu-bansal)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5736950?style=plastic)](https://stackoverflow.com/users/5736950/himanshu-bansal)
 
 ## Hi there 👋 –  I'm Himanshu!
 
